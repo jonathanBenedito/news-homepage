@@ -1,0 +1,14 @@
+:root {
+    --primary-color: hsl(5, 85%, 63%);
+    --secondary-color: hsl(35, 77%, 62%);
+
+    --font-color: hsl(240, 100%, 5%);
+    --font-button-color: hsl(36, 100%, 99%);
+    --button-hover-color: hsl(240, 100%, 5%);
+
+    --news-item-heading-color:  hsl(36, 100%, 99%);
+    --news-list-background-color: hsl(240, 100%, 5%);
+    --news-list-font-color: hsl(236, 13%, 42%);
+
+    --trending-item-heading-color: hsl(233, 8%, 79%);
+}

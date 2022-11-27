@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Homepage</title>
+
+  <link rel="shortcut icon" href="src/images/favicon-32x32.png" type="image/x-icon">
+  <link rel="stylesheet" href="src/css/reset.css">
+  <link rel="stylesheet" href="src/css/variables.css">
+  <link rel="stylesheet" href="src/css/style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header class="header">
+    <a href="index.html">
+        <img src="src/images/logo.svg" alt="web logo">
+    </a>
+
+    <nav class="nav-links">
+      <input type="checkbox" name="menu-hamburguer" id="menu-hamburguer">
+
+      <label for="menu-hamburguer">
+          <div class="menu">
+              <span class="hamburguer"></span>
+          </div>
+      </label>
+      <div class="full-page-green"></div>
+      <div class="ham-menu">
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#new">New</a></li>
+          <li><a href="#popular">Popular</a></li>
+          <li><a href="#trending">Trending</a></li>
+          <li><a href="#categories">Categories</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main class="main">
+    <article class="news">
+      <figure class="web-3-img"></figure>
+
+      <section class="title">
+        <h1 class="news-title">The Bright Future of Web 3.0?</h1>
+      </section>
+
+      <section class="news-description">
+        <p class="description">
+          We dive into the next evolution of the web that claims to put the power of the platforms back into the hands
+          of the
+          people.
+          But is it really fulfilling its promise?
+        </p>
+
+        <a href="" class="read-more-button">Read more</a>
+      </section>
+
+      <aside class="news-list">
+        <div class="news-list-container">
+          <h2 class="news-list-title">New</h2>
+
+          <div class="new-item">
+            <a class="title" href="#">Hydrogen VS Electric Cars</a>
+            <p class="description">Will hydrogen-fueled cars ever catch up to EVs?</p>
+          </div>
+
+          <div class="new-item">
+            <a class="title" href="#">The Downsides of AI Artistry</a>
+            <p class="description">What are the possible adverse effects of on-demand AI image generation?</p>
+          </div>
+
+          <div class="new-item">
+            <a class="title" href="#">Is VC Funding Drying Up?</a>
+            <p class="description">Private funding by VC firms is down 50% YOY. We take a look at what that means.</p>
+          </div>
+        </div>
+      </aside>
+    </article>
+
+    <section class="trending-news">
+      <div class="trending-item">
+        <img class="trending-illustration" src="src/images/image-retro-pcs.jpg" alt="Retro pcs">
+
+        <div class="info">
+          <h2 class="number">01</h2>
+          <a class="title" href="#">Reviving Retro PCs</a>
+          <p class="description">
+            What happens when old PCs are given modern upgrades?
+          </p>
+        </div>
+      </div>
+
+      <div class="trending-item">
+        <img class="trending-illustration" src="src/images/image-top-laptops.jpg" alt="Top laptops">
+
+        <div class="info">
+          <h2 class="number">02</h2>
+          <a class="title" href="#">Top 10 Laptops of 2022</a>
+          <p class="description">
+            Our best picks for various needs and budgets.
+          </p>
+        </div>
+      </div>
+
+      <div class="trending-item">
+        <img class="trending-illustration" src="src/images/image-gaming-growth.jpg" alt="Gaming growth">
+
+        <div class="info">
+          <h2 class="number">03</h2>
+          <a class="title" href="#">The Growth of Gaming</a>
+          <p class="description">
+            How the pandemic has sparked fresh opportunities.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+
+</html>
