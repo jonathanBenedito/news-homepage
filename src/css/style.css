@@ -134,7 +134,7 @@ body a:hover {
     }
 
     .main .news .web-3-img {
-        min-height: 350px;
+        min-height: 300px;
         background: url('../images/image-web-3-mobile.jpg') center center no-repeat;
         background-size: cover;
         width: 100%;
