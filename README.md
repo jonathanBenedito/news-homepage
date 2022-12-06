@@ -5,7 +5,7 @@
   Homepage de Notícias
 </h1>
 <p align="center">
-    Página única do homepage de um website de notícias <a href="https://jonathanbenedito.github.io/portfolio" target="_blank">jonathanbenedito.github.io/news-homepage</a>. Desenvolvido para um desafio do Frontend Mentor.
+    Página única do homepage de um website de notícias <a href="https://jonathanbenedito.github.io/news-homepage/" target="_blank">jonathanbenedito.github.io/news-homepage</a>. Desenvolvido para um desafio do Frontend Mentor.
 </p>
 
 ![demo](design/news-homepage-desktop.png)
