@@ -56,7 +56,10 @@ Desafio do Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/ne
 
 O website foi construído usando apenas HTML5 e CSS3.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="64" />
+<div style="display: flex; margin-top: 15px; gap: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="64" />
+</div>
+
 
           
