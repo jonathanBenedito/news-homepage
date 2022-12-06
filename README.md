@@ -41,11 +41,9 @@ A proposta é construir a homepage usando preferencialmente o CSS grid, o menu d
 
 ### Fotos (Mobile)
 
-<div>
-    <img alt="Logo" src="design/news-homepage-mobile-animado.gif" height="450" />
-    <img alt="Logo" src="design/news-homepage-mobile-animado-menu.gif" height="450"/>
-        <img alt="Logo" src="design/news-homepage-animado-tablet.gif" height="450"/>
-</div>
+| <img alt="Logo" src="design/news-homepage-mobile-animado.gif" height="450" /> |
+| <img alt="Logo" src="design/news-homepage-mobile-animado-menu.gif" height="450"/> |
+| <img alt="Logo" src="design/news-homepage-animado-tablet.gif" height="450"/> |
 
 ### Links
 
