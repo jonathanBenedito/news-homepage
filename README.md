@@ -14,14 +14,14 @@
 
 ## 📜 Conteúdo
 
-- [Guia de instalação](#guia-de-instalação)
+- [Guia de instalação](#🛠-guia-de-instalação)
 - [Sobre o projeto](#sobre-o-projeto)
   - [O desafio](#o-desafio)
   - [Fotos (Mobile)](#fotos-mobile)
   - [Links](#links)
   - [Tecnologias](#tecnologias)
 
-## Guia de instalação
+## 🛠 Guia de instalação
 
 1. Faça o clone do projeto
     ```
