@@ -14,7 +14,7 @@
 
 ## 📜 Conteúdo
 
-- [Guia de instalação](#guia-de-instalação)
+- [Guia de instalação](#🛠-guia-de-instalação)
 - [Sobre o projeto](#sobre-o-projeto)
   - [O desafio](#o-desafio)
   - [Fotos (Mobile)](#fotos-mobile)
