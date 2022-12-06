@@ -49,7 +49,7 @@ A proposta é construir a homepage usando preferencialmente o CSS grid, o menu d
 
 ### Links
 
-Website: <a href="https://jonathanbenedito.github.io/news-homepage/">jonathanbenedito.github.io/news-homepage/</a>
+Website: <a href="https://jonathanbenedito.github.io/news-homepage/">jonathanbenedito.github.io/news-homepage/</a><br />
 Desafio do Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl">jonathanbenedito.github.io/news-homepage/</a>
 
 ### Tecnologias
