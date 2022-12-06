@@ -41,11 +41,11 @@ A proposta é construir a homepage usando preferencialmente o CSS grid, o menu d
 
 ### Fotos (Mobile)
 
-| <img alt="Logo" src="design/news-homepage-mobile-animado.gif" height="450" /> |
+|  |
 | <img alt="Logo" src="design/news-homepage-mobile-animado-menu.gif" height="450"/> |
 | <img alt="Logo" src="design/news-homepage-animado-tablet.gif" height="450"/> |
 
-| [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+| <img alt="Logo" src="design/news-homepage-mobile-animado.gif" height="450" />  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
 |:---:|:---:|:---:|
 | http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
 
