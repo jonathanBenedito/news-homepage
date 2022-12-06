@@ -41,13 +41,9 @@ A proposta é construir a homepage usando preferencialmente o CSS grid, o menu d
 
 ### Fotos (Mobile)
 
-|  |
-| <img alt="Logo" src="design/news-homepage-mobile-animado-menu.gif" height="450"/> |
-| <img alt="Logo" src="design/news-homepage-animado-tablet.gif" height="450"/> |
-
-| <img alt="Logo" src="design/news-homepage-mobile-animado.gif" height="450" />  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+| <img alt="news homepage mobile showcase" src="design/news-homepage-mobile-animado.gif" height="450" />  | <img alt="news homepage mobile menu" src="design/news-homepage-mobile-animado-menu.gif" height="450"/> | <img alt="news homepage on tablet" src="design/news-homepage-animado-tablet.gif" height="450"/> |
 |:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
+| Layout em mobile | Menu mobile | Layout em tablets |
 
 ### Links
 
