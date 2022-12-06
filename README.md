@@ -12,7 +12,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Table of contents
+## 📜 Conteúdo
 
 - [Guia de instalação](#guia-de-instalação)
 - [Sobre o projeto](#sobre-o-projeto)
@@ -21,7 +21,7 @@
   - [Links](#links)
   - [Tecnologias](#tecnologias)
 
-## Guia de instalação
+## 🛠 Guia de instalação
 
 1. Faça o clone do projeto
     ```
@@ -33,7 +33,7 @@
     cd news-homepage
     ```
 
-## Sobre o projeto
+## 💬 Sobre o projeto
 
 ### O desafio
 
