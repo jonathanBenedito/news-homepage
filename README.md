@@ -34,12 +34,12 @@ A proposta é construir a homepage usando preferencialmente o CSS grid, o menu d
 
 | <img alt="news homepage mobile showcase" src="design/news-homepage-mobile-animado.gif" height="450" />  | <img alt="news homepage mobile menu" src="design/news-homepage-mobile-animado-menu.gif" height="450"/> | <img alt="news homepage on tablet" src="design/news-homepage-animado-tablet.gif" height="450"/> |
 |:---:|:---:|:---:|
-| Layout em mobile | Menu mobile | Layout em tablets |
+| Smartphone layout | Menu mobile | Tablet layout |
 
 ### Links
 
 Website: <a href="https://jonathanbenedito.github.io/news-homepage/">jonathanbenedito.github.io/news-homepage/</a><br />
-Desafio do Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl">jonathanbenedito.github.io/news-homepage/</a>
+Desafio do Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl">frontendmentor.io/challenges/news-homepage-H6SWTa1MFl</a>
 
 ### Tecnologias
 
